@@ -1,1 +1,3 @@
-no idea where the environment.yaml file is that is supposed to be copied here
+# requirements.txt
+snowflake-snowpark-python
+streamlit
